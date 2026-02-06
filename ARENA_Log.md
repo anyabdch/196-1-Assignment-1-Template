@@ -11,19 +11,19 @@ For each exercise, record your observations. Your goal is to evaluate **which mo
 ---
 
 ## Exercise 1: Test-Driven Development (TDD)
-*Goal: Which model's code  passed the provided test suite?*
+*Goal: Which model's code passed the provided test suite?*
 
 * **Prompt Used:**
     > [Paste the prompt you gave the AI here]
 
 * **Model A Result:**
-    * [e.g., Passed all tests / Failed on the birthday function / Syntax Error]
+    * _[e.g., Passed all tests / Failed on the birthday function / Syntax Error]_
 * **Model B Result:**
-    * [e.g., Passed all tests / Code was very long / Failed logic]
+    * _[e.g., Passed all tests / Code was very long / Failed logic]_
 * **The Winner:** [Model A / Model B / Tie]
-* **Which Model Was It?:** [e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]
+* **Which Model Was It?:** _[e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]_
 * **Reason for Vote:**
-    > [Why did you choose this one? Was the code cleaner? Did it handle edge cases better?]
+    > [e.g., Why did you choose this one? Was the code cleaner? Did it handle edge cases better?]
 
 ---
 
@@ -37,9 +37,9 @@ For each exercise, record your observations. Your goal is to evaluate **which mo
     * Did Model A cover the "Deactivate Account" edge case? [Yes/No]
     * Did Model B cover the "Deactivate Account" edge case? [Yes/No]
 * **The Winner:** [Model A / Model B / Tie]
-* **Which Model Was It?:** [e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]
+* **Which Model Was It?:** _[e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]_
 * **Reason for Vote:**
-    > [Which test suite looked more robust? Did one import a library that doesn't exist?]
+    > [e.g., Which test suite looked more robust? Did one import a library that doesn't exist?]
 
 ---
 
@@ -50,10 +50,10 @@ For each exercise, record your observations. Your goal is to evaluate **which mo
     > [Paste the prompt you gave the AI here]
 
 * **Explanation Quality:**
-    * **Model A:** [e.g., Did it explain WHY the error happened, or just fix it?]
-    * **Model B:** [e.g., Was its explanation clear?]
+    * **Model A:** _[e.g., Did it explain WHY the error happened, or just fix it?]_
+    * **Model B:** _[e.g., Was its explanation clear?]_
 * **The Winner:** [Model A / Model B / Tie]
-* **Which Model Was It?:** [e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]
+* **Which Model Was It?:** _[e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]_
 * **Reason for Vote:**
     > [I chose this model because...]
 
@@ -66,9 +66,9 @@ For each exercise, record your observations. Your goal is to evaluate **which mo
     > [Paste the prompt you gave the AI here]
 
 * **Observations:**
-    * [Did one model hallucinate a bug that wasn't there? Did one fail to find the math error?]
+    * _[e.g., Did one model hallucinate a bug that wasn't there? Did one fail to find the math error?]_
 * **The Winner:** [Model A / Model B / Tie]
-* **Which Model Was It?:** [e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]
+* **Which Model Was It?:** _[e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]_
 * **Reason for Vote:**
     > [I chose this model because...]
 
@@ -81,12 +81,12 @@ For each exercise, record your observations. Your goal is to evaluate **which mo
     > [Paste the specific lines of pseudocode you were testing here]
 
 * **Interpretation:**
-    * **Model A Approach:** [e.g., Used a 'While' loop, imported a heavy library]
-    * **Model B Approach:** [e.g., Used a recursive function, kept it simple]
+    * **Model A Approach:** _[e.g., Used a 'While' loop, imported a heavy library]_
+    * **Model B Approach:** _[e.g., Used a recursive function, kept it simple]_
 * **The Winner:** [Model A / Model B / Tie]
-* **Which Model Was It?:** [e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]
+* **Which Model Was It?:** _[e.g., Gpt o4-mini, Gemini 3 pro, Claude Sonnet 3.5]_
 * **Reason for Vote:**
-    > [Which implementation matched what you had in your head?]
+    > [e.g., Which implementation matched what you had in your head?]
 
 ---
 
